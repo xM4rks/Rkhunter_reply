@@ -2,13 +2,7 @@ import hashlib
 import os
 
 DIRECTORIOS_SISTEMA = [
-    "/etc",
     "/bin",
-    "/sbin",
-    "/usr/bin",
-    "/usr/sbin",
-    "etc/bin",
-    "etc/sbin",
 ]
 
 LOG_HASHES = "negatives_logs.txt"

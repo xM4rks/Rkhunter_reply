@@ -1,1 +1,0 @@
-/etc/pulse/client.conf.d/01-enable-autospawn.conf - ERROR: [Errno 2] No such file or directory: '/etc/pulse/client.conf.d/01-enable-autospawn.conf'
